@@ -1,0 +1,17 @@
+*.pyc
+*.pyo
+
+*~
+.~*
+.~lock*
+
+*.old
+*.log
+*.png
+*.jpg
+*.svg
+*.zip
+*.7z
+*.xcf
+
+*.hdf
